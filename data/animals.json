@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Utter",
+    "description": "omnivore",
+    "food": "abbore",
+    "sound": "fnirrrp",
+    "enclosure": "lilla"
+  },
+  {
+    "name": "Vessla",
+    "description": "omnivore",
+    "food": "skalbagge",
+    "sound": "tviddevipp",
+    "enclosure": "lilla"
+  },
+  {
+    "name": "Säl",
+    "description": "omnivore",
+    "food": "makrill",
+    "sound": "onk onk",
+    "enclosure": "lilla"
+  },
+  {
+    "name": "Anka",
+    "description": "herbivore",
+    "food": "bröd",
+    "sound": "kvack kvack",
+    "enclosure": "dammen"
+  },
+  {
+    "name": "Mås",
+    "description": "carnivour",
+    "food": "fisk",
+    "sound": "hiarr hiarr",
+    "enclosure": "dammen"
+  },
+  {
+    "name": "Pelikan",
+    "description": "carnivour",
+    "food": "krill",
+    "sound": "gnuff",
+    "enclosure": "dammen"
+  },
+  {
+    "name": "Svan",
+    "description": "herbivore",
+    "food": "alger",
+    "sound": "kvack",
+    "enclosure": "dammen"
+  },
+  {
+    "name": "Pippi",
+    "description": "herbivore",
+    "food": "brödsmulor",
+    "sound": "kvidevitt",
+    "enclosure": "dammen"
+  },
+  {
+    "name": "Koltrast",
+    "description": "omnivore",
+    "food": "larv",
+    "sound": "tsi tsi darr",
+    "enclosure": "dammen"
+  },
+  {
+    "name": "Ko",
+    "description": "herbivore",
+    "food": "gräs",
+    "sound": "muuu",
+    "enclosure": "stora"
+  },
+  {
+    "name": "Gnu",
+    "description": "herbivore",
+    "food": "gräs",
+    "sound": "moöff",
+    "enclosure": "stora"
+  },
+  {
+    "name": "Myrslok",
+    "description": "carnivour",
+    "food": "myror",
+    "sound": "slurp",
+    "enclosure": "stora"
+  },
+  {
+    "name": "Älg",
+    "description": "herbivore",
+    "food": "äpple",
+    "sound": "bröööl",
+    "enclosure": "stora"
+  },
+  {
+    "name": "Igelkott",
+    "description": "herbivore",
+    "food": "löv",
+    "sound": "fnuff",
+    "enclosure": "stora"
+  },
+  {
+    "name": "Varg",
+    "description": "carnivour",
+    "food": "kanin",
+    "sound": "aaauuooo",
+    "enclosure": "stora"
+  },
+  {
+    "name": "Ekorre",
+    "description": "omnivore",
+    "food": "frön",
+    "sound": "tviirp",
+    "enclosure": "mellan"
+  },
+  {
+    "name": "Gris",
+    "description": "omnivore",
+    "food": "morot",
+    "sound": "nöff nöff",
+    "enclosure": "mellan"
+  },
+  {
+    "name": "Katt",
+    "description": "carnivour",
+    "food": "whiskas",
+    "sound": "mjau",
+    "enclosure": "mellan"
+  },
+  {
+    "name": "Hund",
+    "description": "omnivore",
+    "food": "frolic",
+    "sound": "voff",
+    "enclosure": "mellan"
+  },
+  {
+    "name": "Orm",
+    "description": "carnivour",
+    "food": "ägg",
+    "sound": "fzzzzt",
+    "enclosure": "mellan"
+  },
+  {
+    "name": "lus",
+    "description": "herbivore",
+    "food": "havre",
+    "sound": "pip",
+    "enclosure": "mellan"
+  }
+]

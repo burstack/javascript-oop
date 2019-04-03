@@ -1,0 +1,47 @@
+body {
+	background-image: url("../img/bk.jpg");
+	background-repeat: repeat;
+}
+
+.container {
+	padding-top: 33px;
+}
+
+.panel {
+	border: 2px solid black;
+}
+
+.modal {
+	display: inline-block;
+	padding-top: 5em;
+	font-size: 2em;
+	text-align: center;
+}
+
+.btn {
+	padding: 1px;
+}
+
+.thumbnail {
+	text-align: center;
+	border-radius: 10%;
+	border: 1px solid black;
+}
+
+@media (max-width: 368px) {
+
+	.btn {
+		margin : 2px auto;
+		display: block;
+	}
+}
+
+
+
+
+
+
+
+
+
+
